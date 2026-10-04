@@ -99,4 +99,7 @@ Tips for a good export:
 
 - The first-person character, animations, and weapon models come from Epic Games' Unreal Engine First Person
   template, under the Unreal Engine EULA.
+- The Marksman rifle is ["SV-98 Sniper Rifle"](https://www.fab.com/listings/02db3e6b-1d19-421f-9c87-c8e0a89a3a5b)
+  by SpatialNeglect, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Rescaled and
+  repositioned for the game.
 - *Snowdon Towers* is Autodesk's Revit sample model.
