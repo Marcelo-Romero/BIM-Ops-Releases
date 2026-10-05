@@ -55,7 +55,8 @@ They hold armor plates, frag and smoke grenades, C4, mines, medkits, and three m
 and the **Marksman**, a sniper rifle with a 7x scope that is inaccurate unless you scope in. Watch for the glint of
 an enemy's scope.
 
-The game comes with two buildings: Autodesk's *Snowdon Towers* sample and a small single-storey building.
+The game comes with one sample building, a small single-storey one. To play anywhere else, export your own
+building from Revit (see below).
 
 ### Controls
 
@@ -112,4 +113,3 @@ Tips for a good export:
 - The Marksman rifle is ["SV-98 Sniper Rifle"](https://www.fab.com/listings/02db3e6b-1d19-421f-9c87-c8e0a89a3a5b)
   by SpatialNeglect, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Rescaled and
   repositioned for the game.
-- *Snowdon Towers* is Autodesk's Revit sample model.
