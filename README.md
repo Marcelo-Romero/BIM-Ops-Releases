@@ -43,11 +43,17 @@ Players are split into **ALPHA** and **BRAVO**.
 
 - **Team Deathmatch**: the first team to 25 eliminations, or the team ahead after 8 minutes, wins.
 - **Hardpoint**: one of the building's rooms is live at a time. Hold it for 60 seconds to score, and the room moves.
-  The first team to 5 wins. It needs a building exported with rooms.
+  Stepping out for up to 3 seconds keeps it yours (the clock pauses). The first team to 5 wins. It needs a building
+  exported with rooms.
 - **Battle Royale**: each team drops in, and the gas closes in until the last circle shuts inside the building.
   There are no respawns: the last team standing wins.
 
 The host can add up to 15 **bots** (Beginner, Intermediate or Expert) in every mode.
+
+Every mode has **loot**: chests in the rooms and around the arena (the host sets how many), and rarer gold chests.
+They hold armor plates, frag and smoke grenades, C4, mines, medkits, and three more guns: the Sidearm, the Launcher
+and the **Marksman**, a sniper rifle with a 7x scope that is inaccurate unless you scope in. Watch for the glint of
+an enemy's scope.
 
 The game comes with two buildings: Autodesk's *Snowdon Towers* sample and a small single-storey building.
 
@@ -57,12 +63,16 @@ The game comes with two buildings: Autodesk's *Snowdon Towers* sample and a smal
 |---|---|---|
 | Move / look / jump | WASD / mouse / Space | Left stick / right stick / A |
 | Fire | Left mouse | RB |
-| Aim down sights | Right mouse (hold) | LB |
+| Aim down sights / scope | Right mouse (hold) | LB |
 | Sprint | Left Shift (hold) | LT |
 | Crouch | Left Ctrl (hold) | B |
 | Reload | R | X |
-| Switch weapon | 1 / 2, Q, mouse wheel | D-pad |
-| Open / close door | E | Y |
+| Switch weapon | 1 / 2 / 3, Q, mouse wheel | D-pad up / down |
+| Open a chest, take a gun, open / close a door | E | Y |
+| Throw a frag / smoke grenade | G / T | D-pad right / - |
+| Place C4 / detonate it | F / X | - |
+| Place a mine | V | - |
+| Use a medkit | H | D-pad left |
 | Scoreboard | Tab (hold) | View |
 | Pause menu | Esc | Start |
 
