@@ -47,6 +47,17 @@ Players are split into **ALPHA** and **BRAVO**.
   exported with rooms.
 - **Battle Royale**: each team drops in, and the gas closes in until the last circle shuts inside the building.
   There are no respawns: the last team standing wins.
+- **Plunder** (after Call of Duty: Warzone's): grab cash from chests, parachuted cash drops and other players, and
+  bank it. The first team to $100,000 starts a 2-minute Bonus Round; the most cash at the end wins.
+  - Cash you carry is at risk: dying drops half of it. Banked cash is safe.
+  - Bank it in a **Cash Deposit Balloon** (from chests, put down with **B**) or a **chopper** your team can call to a
+    helipad once it has 30% of the goal. Press **E** at either to deposit. The cash goes to the team that deposits
+    last, so you can steal the other team's, or shoot their balloon down before it takes off.
+  - The leading team's richest player wears the crown once they pass 20% of the goal, and every map pings them.
+
+In every mode but Hardpoint, a minimap in the top-left corner turns with you, and a red X marks where you last
+died, so you can go back for what you dropped. When you join, you can pick the host's team, the other team, or the
+smaller one.
 
 The host can add up to 15 **bots** (Beginner, Intermediate or Expert) in every mode.
 
@@ -69,11 +80,12 @@ building from Revit (see below).
 | Crouch | Left Ctrl (hold) | B |
 | Reload | R | X |
 | Switch weapon | 1 / 2 / 3, Q, mouse wheel | D-pad up / down |
-| Open a chest, take a gun, open / close a door | E | Y |
+| Open a chest, take a gun, open / close a door, deposit cash | E | Y |
 | Throw a frag / smoke grenade | G / T | D-pad right / - |
 | Place C4 / detonate it | F / X | - |
 | Place a mine | V | - |
 | Use a medkit | H | D-pad left |
+| Put down a Cash Deposit Balloon (Plunder) | B | - |
 | Scoreboard | Tab (hold) | View |
 | Pause menu | Esc | Start |
 
