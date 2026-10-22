@@ -55,9 +55,18 @@ Players are split into **ALPHA** and **BRAVO**.
     last, so you can steal the other team's, or shoot their balloon down before it takes off.
   - The leading team's richest player wears the crown once they pass 20% of the goal, and every map pings them.
 
+The building stands in the middle of a 500 m walled arena with eight landmarks to fight through: a hospital, a
+warehouse, an apartment block, a gas station, a factory, a train station, an airfield and a stadium.
+
+Four **vehicles** (jeeps and trucks) wait around the arena. Press **E** beside one to get in: the driver drives
+from a chase camera, and up to three passengers shoot their own guns. Vehicles burn and blow up under fire
+(explosives hurt them most), taking everyone aboard with them, and running someone over at speed kills them. A
+wreck is replaced elsewhere 90 seconds later (not in Battle Royale). The host can turn vehicles off.
+
 In every mode but Hardpoint, a minimap in the top-left corner turns with you, and a red X marks where you last
 died, so you can go back for what you dropped. When you join, you can pick the host's team, the other team, or the
-smaller one.
+smaller one. **M** opens a full-screen map with the landmarks, and the vehicles: white when free, otherwise in
+the colour of the team riding them.
 
 The host can add up to 15 **bots** (Beginner, Intermediate or Expert) in every mode.
 
@@ -81,12 +90,16 @@ building from Revit (see below).
 | Reload | R | X |
 | Switch weapon | 1 / 2 / 3, Q, mouse wheel | D-pad up / down |
 | Open a chest, take a gun, open / close a door, deposit cash | E | Y |
+| Get in / out of a vehicle | E | Y |
+| Drive / handbrake (driver) | WASD / Space | Left stick / A |
+| Change seat (in a vehicle) | Left Ctrl or C | B |
 | Throw a frag / smoke grenade | G / T | D-pad right / - |
 | Place C4 / detonate it | F / X | - |
 | Place a mine | V | - |
 | Use a medkit | H | D-pad left |
 | Put down a Cash Deposit Balloon (Plunder) | B | - |
 | Scoreboard | Tab (hold) | View |
+| Full-screen map | M | Left stick (press) |
 | Pause menu | Esc | Start |
 
 ### If joining fails
@@ -125,3 +138,6 @@ Tips for a good export:
 - The Marksman rifle is ["SV-98 Sniper Rifle"](https://www.fab.com/listings/02db3e6b-1d19-421f-9c87-c8e0a89a3a5b)
   by SpatialNeglect, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Rescaled and
   repositioned for the game.
+- The jeep is the Offroad car from Epic Games' Unreal Engine Vehicle template, under the Unreal Engine EULA.
+- The truck is ["ZIS-42 Soviet Military Truck"](https://www.fab.com/listings/52dd5495-c89f-4ff6-bbe2-92c83e26ea65)
+  by EVOLVE Studio, under the Fab Standard License. Rescaled for the game.
