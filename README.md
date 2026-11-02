@@ -68,6 +68,11 @@ died, so you can go back for what you dropped. When you join, you can pick the h
 smaller one. **M** opens a full-screen map with the landmarks, and the vehicles: white when free, otherwise in
 the colour of the team riding them.
 
+Teammates' names show over their heads (enemies' only when you can see them). **Ping** a spot for your team as in
+Warzone: a tap marks it in yellow, a quick double tap marks danger in red, and a tap on an enemy you can see puts a
+red marker on them; pings show on screen and on the map. Drop the gun in your hands (**Z**) to give it to a
+teammate.
+
 The host can add up to 15 **bots** (Beginner, Intermediate or Expert) in every mode.
 
 Every mode has **loot**: chests in the rooms and around the arena (the host sets how many), and rarer gold chests.
@@ -88,8 +93,9 @@ building from Revit (see below).
 | Sprint | Left Shift (hold) | LT |
 | Crouch | Left Ctrl (hold) | B |
 | Reload | R | X |
-| Switch weapon | 1 / 2 / 3, Q, mouse wheel | D-pad up / down |
+| Switch weapon | 1 / 2 / 3, Q, mouse wheel | D-pad down |
 | Open a chest, take a gun, open / close a door, deposit cash | E | Y |
+| Drop the gun in your hands (for a teammate) | Z | Right stick (hold) |
 | Get in / out of a vehicle | E | Y |
 | Drive / handbrake (driver) | WASD / Space | Left stick / A |
 | Change seat (in a vehicle) | Left Ctrl or C | B |
@@ -98,6 +104,7 @@ building from Revit (see below).
 | Place a mine | V | - |
 | Use a medkit | H | D-pad left |
 | Put down a Cash Deposit Balloon (Plunder) | B | - |
+| Ping a spot for your team (twice quickly: danger) or an enemy in sight | Middle mouse or Left Alt | D-pad up |
 | Scoreboard | Tab (hold) | View |
 | Full-screen map | M | Left stick (press) |
 | Pause menu | Esc | Start |
